@@ -1,0 +1,4 @@
+spring:
+  messages:
+    basename: messages, errors
+    encoding: UTF-8
