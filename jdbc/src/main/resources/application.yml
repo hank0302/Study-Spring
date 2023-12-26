@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driverClassName: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://211.209.122.119:3306/spring-study
+    username: root
+    password: dawin5887
