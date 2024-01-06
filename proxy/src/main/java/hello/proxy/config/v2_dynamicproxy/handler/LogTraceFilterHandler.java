@@ -38,5 +38,5 @@ public class LogTraceFilterHandler implements InvocationHandler {
             throw e;
         }
     }
-    }
+
 }
